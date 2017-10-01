@@ -1,2 +1,1 @@
-# hello-world
-My first github repository
+My name is Emaikwu Innocent am a Nigerian who loves to code the web especially javascript.
